@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @h-ajar. You can call me Raja!
+- 💸 I’m a financial analyst
+- 📊 I’m interested in Data Analysis and Econometrics
+- 🌱 I’m currently learning Python and SQL
+- 📑 You can check my website for some humble projects: https://itsraja.com/
